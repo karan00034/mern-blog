@@ -10,8 +10,8 @@ export default function About() {
             <p>
               Welcome to Karan's Blog! This blog was created by Karan Bhardwaj
               as a personal project to share his thoughts and ideas with the
-              world. Karan is a passionate developer who loves to write about
-              technology, coding, and everything in between.
+              world. Karan is a passionate cook who loves to write about
+              different recipes.
             </p>
 
             <p>
