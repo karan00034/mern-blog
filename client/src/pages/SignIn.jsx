@@ -57,7 +57,7 @@ export default function SignIn() {
             This is a demo project. You can sign in with your email and password
             or with Google.
             <br/> 
-            default id : kb0888547@gmail.com<br/>
+            default id : kb0888@gmail.com<br/>
             pass : 12345678
           </p>
         </div>
