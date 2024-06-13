@@ -103,11 +103,13 @@ export default function CreatePost() {
             }
           >
             <option value='uncategorized'>Select a category</option>
-            <option value='indie game'>Indie Games</option>
-            <option value='aaa games'>AAA Games</option>
-            <option value='open world games'>Open world games</option>
-            <option value='guide'>Game guide</option>
-            <option value='news'>News</option>
+            <option value='indian'>Indian</option>
+            <option value='vegetarian'>Vegetarian</option>
+            <option value='deserts'>Deserts</option>
+            <option value='non veg'>Non Veg</option>
+            <option value='quick and easy'>Quick and easy</option>
+            <option value='soups'>Soups</option>
+            <option value='dinner'>Dinner</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
