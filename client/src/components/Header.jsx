@@ -118,8 +118,8 @@ export default function Header() {
           <Link to='/about'>About</Link>
         </Navbar.Link>
         {currentUser?.isAdmin && ( // Optional chaining added to avoid errors when currentUser is null
-          <Navbar.Link active={path === '/create'} as="div">
-            <Link to="/create">Create Post</Link>
+          <Navbar.Link active={path === '/create-post'} as="div">
+            <Link to="/create-post">Create Post</Link>
           </Navbar.Link>
         )}
      
